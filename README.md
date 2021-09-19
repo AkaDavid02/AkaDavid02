@@ -1,6 +1,6 @@
 <h4> Hey ¡tu! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-Soy [David](https://web.aesnet.tk/), que onda fan, ¿todo bien?
+Soy [David](https://web.aesnet.tk/), que onda fan, ¿todo bien? [Mi Telegram](https://telegram.me/AkaDavid02)
 
  ---
  
