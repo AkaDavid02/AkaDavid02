@@ -1,6 +1,6 @@
 <h4> Hey ¡tu! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-Soy [David](https://web.aesnet.tk/), Programador, Pentester, experiencia en Wifi, System & Forensics Hacking [Mi Telegram](https://telegram.me/AkaDavid02)
+Soy [David](https://web.aesnet.tk/), Programador, Pentester, experiencia en Cryptography, Wifi, System & Forensics Hacking. Jugador de Ajedrez ♟ [Mi Telegram](https://telegram.me/AkaDavid02)
 
  ---
  
