@@ -2,9 +2,8 @@
 
 Soy David, Programador, Pentester, experiencia en Cryptography, Wifi, Network, System & Forensics Hacking. Jugador de Ajedrez ♟ [Mi Telegram](https://telegram.me/AkaDavid02)
 
-<p align="center">
-  <img src="https://tenor.com/view/game-gif-22203001">
-</p>
+<div class="tenor-gif-embed" data-postid="22203001" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/game-gif-22203001">Game GIF</a>from <a href="https://tenor.com/search/game-gifs">Game GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
  ---
  
 **Lenguajes & Herramientas:**
